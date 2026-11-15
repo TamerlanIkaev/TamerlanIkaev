@@ -34,7 +34,7 @@ I'm currently learning **Go, TypeScript and FastAPI** while improving my backend
 
 ### Featured project
 
-**AlfaAI** — AI-powered Telegram assistant · *Team hackathon project*
+**[AlfaAI](https://github.com/Shm3kvud/alpha-course-assistent-bot)** — AI-powered Telegram assistant · *Team hackathon project*
 
 - Developed the Telegram bot interface using **Python** and **aiogram 3**.
 - Implemented commands, inline buttons, callback handlers and **FSM-based** dialogue flows.
